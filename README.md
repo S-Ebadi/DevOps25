@@ -23,6 +23,6 @@ Everything is here for a reason even if that reason is simply to wait for its mo
 
 ###
 
-"Remember your innerchild and dont forget that innoc ence you once had. Look your innerchild up in memory and make that kid proud by making everything worth it."
+"Remember your innerchild and dont forget that innocence you once had. Look your innerchild up in memory and make that kid proud by making everything worth it."
  
  /Unknown
