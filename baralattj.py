@@ -24,3 +24,17 @@ multiplikationstabell(8)
 
 '''
 
+class Konto:
+    def __init__(self, saldo):
+        self.saldo = saldo
+    def insattning(self, belopp):
+        self.saldo += belopp
+    def uttag(self, belopp):
+        self.saldo -= belopp
+    def visa_saldo(self):
+        print(f"Saldo: {self.saldo}")
+k = Konto(967)
+k.insattning(500)
+k.uttag(500)
+k.visa_saldo()
+
